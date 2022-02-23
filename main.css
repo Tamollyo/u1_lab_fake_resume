@@ -26,3 +26,10 @@ header {
   margin: 0 auto;
   width: 50%;
 }
+
+.projects {
+  display: inline-block;
+  padding: 10px;
+  background-color: pink;
+  border: 3px solid blue;
+}
